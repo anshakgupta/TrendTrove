@@ -228,7 +228,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xS7eK4nRVwLXVHkXL9Oq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.029;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xS7eK4nRVwLXVHkXL9Oq-66" target="xS7eK4nRVwLXVHkXL9Oq-114">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="270" />
+              <mxPoint x="750" y="270" />
+              <mxPoint x="750" y="187" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xS7eK4nRVwLXVHkXL9Oq-126" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TrendTrove&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Online B2C&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clothing&amp;nbsp; Merchandise&amp;nbsp; eStore&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-330" width="180" height="130" as="geometry" />
